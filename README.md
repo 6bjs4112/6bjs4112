@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8f94ff,100:ff7070&height=180&text=Yoonha%20Kim's%20Github&animation=twinkling&fontColor=ffffff&fontSize=60" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8f94ff,100:ff7070&height=180&text=Yoonha%20Kim's%20Github&animation=twinkling&fontColor=ffffff&fontSize=45" />
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🥰Hello World! </h2>  
