@@ -17,14 +17,14 @@ Here are some ideas to get you started:
 
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8f94ff,100:ff7070&height=180&text=Yoonha%20Kim's%20Github&animation=twinkling&fontColor=ffffff&fontSize=45" />
-    </div>
+</div>
     <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🥰Hello World! </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> 하루하루 성장하며 발전하는 끈기있는 프론트엔드 개발자!</li> </div> 
+        <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🥰Hello World! </h2>  
+        <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> 하루하루 성장하며 발전하는 끈기있는 프론트엔드 개발자!</li> </div> 
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> <br> 
-   <div class="skills" style="margin: 0; text-align: left; display: flex; flex-wrap: wrap;">
+   <div  style="margin: 0; text-align: left; display: flex; flex-wrap: wrap;">
           <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white">
           <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white">
           <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=Javascript&logoColor=white">
@@ -44,4 +44,10 @@ Here are some ideas to get you started:
          /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=6bjs4112&layout=compact&bg_color=60,8f94ff,ffa8a8&title_color=ffffff&text_color=ffffff"
            /> </div> 
     </div>
+<div style="text-align: left;"> 
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 📂 Portfolio </h2> <br> 
+    <div  style="margin: 0; text-align: left; display: flex; flex-wrap: wrap;">
+      <a href="https://yoonhakim-portfolio.netlify.app" target="_blank">포트폴리오 웹페이지로 이동하기</a>
+    </div>
+</div>
     
